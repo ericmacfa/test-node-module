@@ -10,12 +10,6 @@ README.md
 gulpfile.*
 Gruntfile.*
 
-/tmp
-/src
-/spec
-/reports
-/package
-/ci-tests
-/generated
 /node_modules
-/bower_components
+/sanity-checks
+/tests
